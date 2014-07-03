@@ -194,6 +194,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *LDAP servers.*
 
 * [389 Directory Server](http://port389.org) - Developed by Red Hat.
+* [FreeIPA](http://www.freeipa.org) - Extends 389 Directory Server to a full authentication suite with Kerberos key management, system login management, a CA, and more. 
 * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
 * [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
